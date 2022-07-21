@@ -12,7 +12,5 @@ namespace NestedObjects
         public string Email { get; set; }
         public string OfficeLocation { get; set; }
 
-        public Advisor AssignedAdvisor { get; set; }
-
     }
 }

@@ -14,6 +14,6 @@ namespace NestedObjects
         public DateOnly DateOfBirth { get; set; }
         public string PhoneNumber { get; set; }
 
-
+        public Advisor AssignedAdvisor { get; set; }
     }
 }
